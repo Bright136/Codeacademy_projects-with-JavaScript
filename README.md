@@ -1,4 +1,9 @@
 # Title: Simple Projects and Functions with JavaScript - CodeAcademy
+<div align='center'> 
+    <img src="https://drive.google.com/uc?export=view&id=1XbmScsqG4eOgK8qb84nFkJ7lbUc7FXsa"/>
+
+</div>
+
 
 ## Introduction
 
@@ -24,6 +29,34 @@ Welcome to the "Simple Projects and Functions with JavaScript" repository! This 
                                 ├───whale_talk
                                 └───work_around_projects
                                     └───modules
+
+Setup/Installation Process:
+
+To run the code from the "Simple Projects and Functions with JavaScript" repository, follow these steps:
+
+1. Ensure you have a compatible JavaScript runtime environment installed on your computer, such as Node.js or a modern web browser.
+
+2. Clone the repository to your local machine using Git or download the repository as a ZIP file and extract it to a directory of your choice.
+
+To clone the repository run the command:
+
+                git clone https://github.com/Bright136/Codeacademy_projects-with-JavaScript.git
+
+
+cd Codeacademy_projects-with-JavaScript
+
+3. Open a terminal or command prompt and navigate to the root directory of the project.
+
+4. Depending on the specific project you want to run, follow the instructions provided within the project's directory to set up and execute the code.
+
+   - For projects that require a web browser, open the corresponding HTML file in your preferred browser.
+   - For projects that require Node.js, navigate to the project directory in the terminal and run the JavaScript file using the `node` command (e.g., `node filename.js`).
+   - Some projects may have additional dependencies or configuration steps. Make sure to read any accompanying documentation or README files within the project directory for specific instructions.
+
+5. Once you have followed the setup instructions, you should be able to run the code and interact with the project as intended.
+
+
+
 ## Project Descriptions
 
 1. Grammar Checker
